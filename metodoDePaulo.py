@@ -4,7 +4,7 @@ import sys
 __author__ = "Paulo Sérgio dos Santos Araujo"
 __license__ = "MIT"
 __version__ = "1.0.0"
-__email__ = "paulo.araujo@splab.ufcg.edu.br"
+__email__ = "paulo.araujo [at] splab.ufcg.edu.br"
 
 class Msn:
     """
